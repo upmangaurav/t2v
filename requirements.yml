@@ -1,0 +1,7 @@
+name: fastai_v1
+dependencies:
+  - ipython
+  - numpy
+  - pandas
+  - py-xgboost
+  - pytorch  
